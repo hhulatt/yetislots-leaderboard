@@ -1,0 +1,61 @@
+name: Refresh leaderboard
+
+# Pulls the current cycle's wager totals from Rainbet and commits the snapshot.
+# GitHub Pages rebuilds on the resulting push, so this workflow only has to
+# produce the data.
+#
+# GENERATED FILE — the cron schedule below is derived from the timezone in
+# creators/yetislots.json. Change the config and regenerate.
+
+on:
+  # Cron is always UTC. Europe/London is UTC+00:00 and UTC+01:00 across the year, so both candidate times
+  # are scheduled: whichever lands on local midnight does the real work and the
+  # other is a harmless extra refresh, because the script is idempotent and the
+  # commit step no-ops when nothing has changed.
+  schedule:
+    - cron: '2 0 * * *'   # UTC+00:00 — local midnight
+    - cron: '2 23 * * *'   # UTC+01:00 — local midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leaderboard
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # Defined at job level, not step level: `env` set on a step is not visible
+    # to that step's own `if:` expression.
+    env:
+      RAINBET_API_KEY: ${{ secrets.RAINBET_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Check the API key is present
+        run: |
+          if [ -z "$RAINBET_API_KEY" ]; then
+            echo "::error::RAINBET_API_KEY secret is not set — add it under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - name: Fetch latest wager totals
+        run: node scripts/fetch-leaderboard.mjs
+
+      - name: Commit refreshed data
+        run: |
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "No leaderboard changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "chore: refresh leaderboard data"
+          git push origin HEAD:${{ github.ref_name }}

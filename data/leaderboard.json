@@ -1,0 +1,24 @@
+{
+  "startsOn": "2026-10-01",
+  "cycle": "2026-10-01",
+  "periodStart": "2026-10-01",
+  "periodEnd": "2026-10-31",
+  "cycleMode": "monthly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "prizePool": 250,
+  "prizes": [
+    100,
+    60,
+    40,
+    30,
+    20
+  ],
+  "boardSize": 25,
+  "totalWagered": 0,
+  "playerCount": 0,
+  "cacheUpdatedAt": null,
+  "updatedAt": "2026-09-27T17:58:38.298Z",
+  "entries": [],
+  "_seed": "Placeholder written by new-creator.mjs so the page renders before the first scheduled refresh. The workflow overwrites this."
+}
