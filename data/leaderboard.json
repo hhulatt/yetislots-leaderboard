@@ -1,11 +1,11 @@
 {
-  "startsOn": "2026-10-01",
   "cycle": "2026-10-01",
   "periodStart": "2026-10-01",
   "periodEnd": "2026-10-31",
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
+  "fullUsernames": true,
   "prizePool": 250,
   "prizes": [
     100,
@@ -15,10 +15,87 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 0,
-  "playerCount": 0,
-  "cacheUpdatedAt": null,
-  "updatedAt": "2026-09-27T17:58:38.298Z",
-  "entries": [],
-  "_seed": "Placeholder written by new-creator.mjs so the page renders before the first scheduled refresh. The workflow overwrites this."
+  "totalWagered": 6922.04,
+  "playerCount": 11,
+  "cacheUpdatedAt": "2026-10-03 15:45:54",
+  "updatedAt": "2026-10-03T15:45:54.551Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "Nurs3r",
+      "hash": "e7dec22b89aadf56",
+      "wagered": 2409.12,
+      "prize": 100
+    },
+    {
+      "rank": 2,
+      "masked": "jorde23",
+      "hash": "4cde054e53fe1a52",
+      "wagered": 2179.55,
+      "prize": 60
+    },
+    {
+      "rank": 3,
+      "masked": "Crankydad",
+      "hash": "d994489420cc9352",
+      "wagered": 1089.1,
+      "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "Gillymatt1992",
+      "hash": "6c3952e7471f2adf",
+      "wagered": 774.14,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "Jessicakingg",
+      "hash": "21274cd16675d4d4",
+      "wagered": 297.06,
+      "prize": 20
+    },
+    {
+      "rank": 6,
+      "masked": "dylanolsen0212",
+      "hash": "270da0d4b6ac5d2d",
+      "wagered": 88.76,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "ItsPigeonTV",
+      "hash": "0ce57335127e648d",
+      "wagered": 44.72,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "Kaarrrllll",
+      "hash": "4d6b4d8e794656d7",
+      "wagered": 38.35,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "Franklin44",
+      "hash": "82970d8e8fa03724",
+      "wagered": 1.14,
+      "prize": 0
+    },
+    {
+      "rank": 10,
+      "masked": "DANNYLAAAD69",
+      "hash": "f10fe1d14d679fd2",
+      "wagered": 0.07,
+      "prize": 0
+    },
+    {
+      "rank": 11,
+      "masked": "sbegwbdvwh",
+      "hash": "d526f9a7d172abc7",
+      "wagered": 0.03,
+      "prize": 0
+    }
+  ]
 }
