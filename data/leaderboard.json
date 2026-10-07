@@ -15,104 +15,111 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 25344.57,
-  "playerCount": 14,
-  "cacheUpdatedAt": "2026-10-06 05:52:09",
-  "updatedAt": "2026-10-06T05:52:09.591Z",
+  "totalWagered": 32210.76,
+  "playerCount": 15,
+  "cacheUpdatedAt": "2026-10-07 02:13:46",
+  "updatedAt": "2026-10-07T02:13:47.042Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Nurs3r",
       "hash": "e7dec22b89aadf56",
-      "wagered": 16691.18,
+      "wagered": 22411.36,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Gillymatt1992",
       "hash": "6c3952e7471f2adf",
-      "wagered": 2921.37,
+      "wagered": 3756.66,
       "prize": 60
     },
     {
       "rank": 3,
       "masked": "jorde23",
       "hash": "4cde054e53fe1a52",
-      "wagered": 2221.21,
+      "wagered": 2237.94,
       "prize": 40
     },
     {
       "rank": 4,
       "masked": "Crankydad",
       "hash": "d994489420cc9352",
-      "wagered": 1294.88,
+      "wagered": 1354.18,
       "prize": 30
     },
     {
       "rank": 5,
       "masked": "Jessicakingg",
       "hash": "21274cd16675d4d4",
-      "wagered": 1101.14,
+      "wagered": 1116.7,
       "prize": 20
     },
     {
       "rank": 6,
       "masked": "Taygambros",
       "hash": "8343749504d48d18",
-      "wagered": 528.03,
+      "wagered": 590.37,
       "prize": 0
     },
     {
       "rank": 7,
       "masked": "Kaarrrllll",
       "hash": "4d6b4d8e794656d7",
-      "wagered": 242.21,
+      "wagered": 242.29,
       "prize": 0
     },
     {
       "rank": 8,
-      "masked": "YeHeheh",
-      "hash": "076fcf95ce2e0f7e",
-      "wagered": 124.53,
+      "masked": "fujixyeti",
+      "hash": "81355bca593e1102",
+      "wagered": 150.8,
       "prize": 0
     },
     {
       "rank": 9,
       "masked": "dylanolsen0212",
       "hash": "270da0d4b6ac5d2d",
-      "wagered": 120.15,
+      "wagered": 125.56,
       "prize": 0
     },
     {
       "rank": 10,
+      "masked": "YeHeheh",
+      "hash": "076fcf95ce2e0f7e",
+      "wagered": 124.53,
+      "prize": 0
+    },
+    {
+      "rank": 11,
       "masked": "marcenzo",
       "hash": "64a4169d2da8d5ce",
       "wagered": 52.88,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "masked": "ItsPigeonTV",
       "hash": "0ce57335127e648d",
       "wagered": 44.72,
       "prize": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "masked": "Franklin44",
       "hash": "82970d8e8fa03724",
-      "wagered": 2.16,
+      "wagered": 2.67,
       "prize": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "masked": "DANNYLAAAD69",
       "hash": "f10fe1d14d679fd2",
       "wagered": 0.07,
       "prize": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "masked": "sbegwbdvwh",
       "hash": "d526f9a7d172abc7",
       "wagered": 0.03,
