@@ -29,7 +29,7 @@ const TZ = 'Europe/London';
 const CYCLE_MODE = 'monthly';
 const CYCLE_START_DAY = 1;
 /** Highest first. Index i is the prize for rank i+1; everyone past the end gets 0. */
-const PRIZES = [100,60,40,30,20];
+const PRIZES = [200,120,80,60,40];
 /** Rows rendered before the "show all" toggle. Every player is still shipped so search can find them. */
 const BOARD_SIZE = 25;
 /**
