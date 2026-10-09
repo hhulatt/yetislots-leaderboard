@@ -15,10 +15,10 @@
     40
   ],
   "boardSize": 25,
-  "totalWagered": 125239.73,
+  "totalWagered": 125239.89,
   "playerCount": 19,
-  "cacheUpdatedAt": "2026-10-09 02:53:48",
-  "updatedAt": "2026-10-09T02:53:48.712Z",
+  "cacheUpdatedAt": "2026-10-09 05:37:38",
+  "updatedAt": "2026-10-09T05:37:38.536Z",
   "entries": [
     {
       "rank": 1,
@@ -59,7 +59,7 @@
       "rank": 6,
       "masked": "Jessicakingg",
       "hash": "21274cd16675d4d4",
-      "wagered": 4416.2,
+      "wagered": 4416.36,
       "prize": 0
     },
     {
