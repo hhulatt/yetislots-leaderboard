@@ -15,10 +15,10 @@
     40
   ],
   "boardSize": 25,
-  "totalWagered": 174419.22,
+  "totalWagered": 174426.78,
   "playerCount": 24,
-  "cacheUpdatedAt": "2026-10-13 03:28:58",
-  "updatedAt": "2026-10-13T03:28:58.974Z",
+  "cacheUpdatedAt": "2026-10-13 06:24:40",
+  "updatedAt": "2026-10-13T06:24:40.750Z",
   "entries": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 4,
       "masked": "Gillymatt1992",
       "hash": "6c3952e7471f2adf",
-      "wagered": 9149.25,
+      "wagered": 9156.81,
       "prize": 60
     },
     {
