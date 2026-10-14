@@ -149,7 +149,7 @@ function weekBefore(week) {
  * which is what most casino leaderboards do - and which cannot be undone for
  * anyone who has already been published.
  */
-const SHOW_FULL_USERNAMES = true;
+const SHOW_FULL_USERNAMES = false;
 
 function maskUsername(name) {
   if (SHOW_FULL_USERNAMES) return name;
