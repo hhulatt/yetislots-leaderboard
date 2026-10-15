@@ -15,37 +15,37 @@
     40
   ],
   "boardSize": 25,
-  "totalWagered": 182262.48,
+  "totalWagered": 187097.29,
   "playerCount": 26,
-  "cacheUpdatedAt": "2026-10-14 15:50:54",
-  "updatedAt": "2026-10-14T15:50:54.778Z",
+  "cacheUpdatedAt": "2026-10-15 01:22:28",
+  "updatedAt": "2026-10-15T01:22:28.891Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Nu**3r",
       "hash": "e7dec22b89aadf56",
-      "wagered": 63291.46,
+      "wagered": 65154.78,
       "prize": 200
     },
     {
       "rank": 2,
       "masked": "Sk****or",
       "hash": "6199ab7d59ef3ea4",
-      "wagered": 56612.75,
+      "wagered": 56622.99,
       "prize": 120
     },
     {
       "rank": 3,
       "masked": "Ka******ll",
       "hash": "4d6b4d8e794656d7",
-      "wagered": 11873.66,
+      "wagered": 12063.41,
       "prize": 80
     },
     {
       "rank": 4,
       "masked": "Gi*********92",
       "hash": "6c3952e7471f2adf",
-      "wagered": 9169.75,
+      "wagered": 10002.42,
       "prize": 60
     },
     {
@@ -59,7 +59,7 @@
       "rank": 6,
       "masked": "dy**********12",
       "hash": "270da0d4b6ac5d2d",
-      "wagered": 7184.78,
+      "wagered": 7196.04,
       "prize": 0
     },
     {
@@ -73,14 +73,14 @@
       "rank": 8,
       "masked": "jo***23",
       "hash": "4cde054e53fe1a52",
-      "wagered": 5105.44,
+      "wagered": 6010.2,
       "prize": 0
     },
     {
       "rank": 9,
       "masked": "Cr*****ad",
       "hash": "d994489420cc9352",
-      "wagered": 4539.78,
+      "wagered": 4547.48,
       "prize": 0
     },
     {
@@ -101,7 +101,7 @@
       "rank": 12,
       "masked": "Be*********95",
       "hash": "a75fb6d8ea5b0dff",
-      "wagered": 1308.22,
+      "wagered": 1408.21,
       "prize": 0
     },
     {
@@ -122,7 +122,7 @@
       "rank": 15,
       "masked": "Le****mp",
       "hash": "05044b742cf31750",
-      "wagered": 222.71,
+      "wagered": 1137.8,
       "prize": 0
     },
     {
@@ -136,7 +136,7 @@
       "rank": 17,
       "masked": "Ye***eh",
       "hash": "076fcf95ce2e0f7e",
-      "wagered": 127.64,
+      "wagered": 127.67,
       "prize": 0
     },
     {
