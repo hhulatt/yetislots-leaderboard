@@ -15,10 +15,10 @@
     40
   ],
   "boardSize": 25,
-  "totalWagered": 273974.87,
+  "totalWagered": 290067.77,
   "playerCount": 29,
-  "cacheUpdatedAt": "2026-10-25 00:59:42",
-  "updatedAt": "2026-10-25T00:59:42.475Z",
+  "cacheUpdatedAt": "2026-10-25 04:10:03",
+  "updatedAt": "2026-10-25T04:10:03.374Z",
   "entries": [
     {
       "rank": 1,
@@ -36,58 +36,58 @@
     },
     {
       "rank": 3,
-      "masked": "Gi*********92",
-      "hash": "6c3952e7471f2adf",
-      "wagered": 16209.07,
+      "masked": "It*******TV",
+      "hash": "0ce57335127e648d",
+      "wagered": 23156.34,
       "prize": 80
     },
     {
       "rank": 4,
-      "masked": "Ka******ll",
-      "hash": "4d6b4d8e794656d7",
-      "wagered": 15723.42,
+      "masked": "Gi*********92",
+      "hash": "6c3952e7471f2adf",
+      "wagered": 16209.07,
       "prize": 60
     },
     {
       "rank": 5,
-      "masked": "Cr*****ad",
-      "hash": "d994489420cc9352",
-      "wagered": 13743.49,
+      "masked": "Ka******ll",
+      "hash": "4d6b4d8e794656d7",
+      "wagered": 15723.57,
       "prize": 40
     },
     {
       "rank": 6,
+      "masked": "Cr*****ad",
+      "hash": "d994489420cc9352",
+      "wagered": 13744.59,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "jo***23",
       "hash": "4cde054e53fe1a52",
       "wagered": 11605.39,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "Je********gg",
       "hash": "21274cd16675d4d4",
       "wagered": 10704.12,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "C4**0Y",
       "hash": "14b75b4b0e01c85e",
       "wagered": 8483.53,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "dy**********12",
       "hash": "270da0d4b6ac5d2d",
-      "wagered": 7206.03,
-      "prize": 0
-    },
-    {
-      "rank": 10,
-      "masked": "It*******TV",
-      "hash": "0ce57335127e648d",
-      "wagered": 7065.64,
+      "wagered": 7206.98,
       "prize": 0
     },
     {
