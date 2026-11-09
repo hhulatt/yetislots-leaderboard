@@ -6,13 +6,13 @@
   "cycleStartDay": 1,
   "timezone": "Europe/London",
   "fullUsernames": false,
-  "prizePool": 500,
+  "prizePool": 1000,
   "prizes": [
-    200,
+    400,
+    240,
+    160,
     120,
-    80,
-    60,
-    40
+    80
   ],
   "boardSize": 25,
   "totalWagered": 98163.06,
@@ -25,35 +25,35 @@
       "masked": "Nu**3r",
       "hash": "e7dec22b89aadf56",
       "wagered": 44697.02,
-      "prize": 200
+      "prize": 400
     },
     {
       "rank": 2,
       "masked": "It*******TV",
       "hash": "0ce57335127e648d",
       "wagered": 32123.44,
-      "prize": 120
+      "prize": 240
     },
     {
       "rank": 3,
       "masked": "jo***23",
       "hash": "4cde054e53fe1a52",
       "wagered": 6529.82,
-      "prize": 80
+      "prize": 160
     },
     {
       "rank": 4,
       "masked": "wi******tt",
       "hash": "5e367f74a1f222de",
       "wagered": 3565.95,
-      "prize": 60
+      "prize": 120
     },
     {
       "rank": 5,
       "masked": "Je********gg",
       "hash": "21274cd16675d4d4",
       "wagered": 2281.47,
-      "prize": 40
+      "prize": 80
     },
     {
       "rank": 6,
