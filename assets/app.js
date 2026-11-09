@@ -509,7 +509,7 @@
     $('board-title').textContent = past ? 'Past winners' : 'Current leaderboard';
     $('board-sub').textContent = past
       ? 'Final standings from every period that has closed, straight from Rainbet.'
-      : 'Search below to find your own position.';
+      : 'Usernames are partially hidden to protect player privacy. Search below to find your own position.';
 
     if (past) { renderHistory(); return; }
 

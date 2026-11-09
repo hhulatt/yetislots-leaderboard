@@ -2,7 +2,7 @@
 
 Live at **https://yetislotsrewards.com/**
 
-A one-page static site showing a $500 monthly wager leaderboard for Rainbet
+A one-page static site showing a $1,000 monthly wager leaderboard for Rainbet
 affiliate code **YETISLOTS**. Generated from the Forge Partners leaderboard
 template — do not hand-edit, see *Making changes* below.
 
@@ -35,14 +35,14 @@ The board therefore keeps working if the API is down, and costs nothing to serve
 | --- | --- |
 | Affiliate code | `YETISLOTS` |
 | Referral link | https://rainbet.com?r=yetislots |
-| Prize pool | $500 across 5 places |
-| Split | 1st $200 · 2nd $120 · 3rd $80 · 4th $60 · 5th $40 |
+| Prize pool | $1,000 across 5 places |
+| Split | 1st $400 · 2nd $240 · 3rd $160 · 4th $120 · 5th $80 |
 | Cycle | Calendar month — 1st to the last day of the month |
 | First cycle | 2026-10-01 — earlier months are never shown as past winners |
 | Timezone | Europe/London |
 | Refresh | 2 0 * * * and 2 23 * * * (UTC) |
 | Weekly board | off — set "weekly" in the creator config to switch it on |
-| Username masking | OFF — full usernames are published |
+| Username masking | on — usernames are published with the middle starred out |
 
 ## Go-live checklist
 
