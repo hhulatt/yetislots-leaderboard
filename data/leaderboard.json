@@ -15,10 +15,10 @@
     40
   ],
   "boardSize": 25,
-  "totalWagered": 98130.56,
+  "totalWagered": 98163.06,
   "playerCount": 20,
-  "cacheUpdatedAt": "2026-11-09 02:33:01",
-  "updatedAt": "2026-11-09T02:33:01.812Z",
+  "cacheUpdatedAt": "2026-11-09 05:43:21",
+  "updatedAt": "2026-11-09T05:43:21.141Z",
   "entries": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "masked": "It*******TV",
       "hash": "0ce57335127e648d",
-      "wagered": 32090.94,
+      "wagered": 32123.44,
       "prize": 120
     },
     {
